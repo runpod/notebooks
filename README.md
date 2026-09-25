@@ -1,3 +1,3 @@
-# RunPod Notebooks
+# Runpod Notebooks
 
-This is just a collection of notebooks that you can use on RunPod
+This is just a collection of notebooks that you can use on Runpod
