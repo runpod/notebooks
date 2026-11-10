@@ -1,6 +1,6 @@
-# RunPod Notebooks
+# Runpod Notebooks
 
-This is just a collection of notebooks that you can use on RunPod
+This is just a collection of notebooks that you can use on Runpod
 
 <!-- runpod-agent-setup:start -->
 **For AI agents:** setup instructions for the Runpod skills and MCP server are at https://agents.runpod.io/
